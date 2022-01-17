@@ -1,0 +1,38 @@
+body {
+    background-color: #495057;
+}
+
+.btnSearch {
+    border: none;
+    border-radius: 30px;
+    height: 25px;
+    width: 80px;
+    transition: 0.5s;
+    background: linear-gradient(90deg, #5a53e7 0%, #f3519a 100%);
+    cursor: pointer;
+    color: #c4c8cc;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.11);
+}
+
+.btnSearch:hover{
+    transition: 0.5s;
+    color: #ffffff;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.226);
+}
+
+.inputSearch {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+    width: 300px;
+    transition: 0.5s;
+    box-shadow: 10px 2px 8px rgba(0, 0, 0, 0.11);
+}
+
+.inputSearch:hover {
+    transition: 0.5s;
+    box-shadow:10px 8px 10px rgba(0, 0, 0, 0.226);
+}
