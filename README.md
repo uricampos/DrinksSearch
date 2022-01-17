@@ -15,6 +15,8 @@ This projetc uses:
  - Put an ErrorPage (already created) in case there are no drinks that match the name searched.
  - Put measure for all the ingredients into the Recipe component.
 
+## Some images
+
 ![image](https://user-images.githubusercontent.com/81439492/149819680-64056233-91a3-4c16-96fd-044db4da042f.png)
 
 ![image](https://user-images.githubusercontent.com/81439492/149819703-e094f993-fc5e-4047-8d74-ba88b5e5082b.png)
